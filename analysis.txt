@@ -1,0 +1,11 @@
+mwc-054097:desktop ywhy2$ cd pdf
+mwc-054097:pdf ywhy2$ cd minutes
+mwc-054097:minutes ywhy2$ pdftotext cm15_aug17.pdf
+mwc-054097:minutes ywhy2$ pdftotext cm15_nov2.pdf
+mwc-054097:minutes ywhy2$ pdftotext cm15_oct5.pdf
+mwc-054097:minutes ywhy2$ pdftotext cm15_oct19.pdf
+mwc-054097:minutes ywhy2$ pdftotext cm15_sept8.pdf
+mwc-054097:minutes ywhy2$ pdftotext cm15_sept21.pdf
+mwc-054097:minutes ywhy2$ cat cm15_aug17.txt cm15_nov2.txt cm15_oct5.txt cm15_oct19.txt cm15_sept8.txt cm15_sept21.txt > all_text.txt
+
+Traci Wilson-Kleekamp addressed that lack of financial priority is an important reason of the racial inequality and suggested the city to put the consideration of disadvantaged into next year's budget. There is an organization named "Race Matters" that actively talked about solutions to the tensions between races. It could be a source to start with if we need to listen to opinions from the community.
